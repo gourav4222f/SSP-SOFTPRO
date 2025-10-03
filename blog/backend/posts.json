@@ -1,0 +1,171 @@
+[
+  {
+    "id": "bf13cbbb-5a87-4e55-af10-74a026776a7e",
+    "title": "blog",
+    "content": "<h1>blog</h1>",
+    "seo": {
+      "title": "blog",
+      "description": "blog"
+    },
+    "image": null,
+    "published": false,
+    "createdAt": "2025-10-03T07:52:15.636Z",
+    "updatedAt": "2025-10-03T07:52:35.513Z"
+  },
+  {
+    "id": "1",
+    "title": "My First Blog Post",
+    "content": "<p>This is the content of my first blog post. It's a great day to be blogging!</p>",
+    "seo": {
+      "title": "My First Blog Post",
+      "description": "A quick intro to my blog"
+    },
+    "image": "https://picsum.photos/id/1018/1000/600",
+    "published": true,
+    "createdAt": "2023-10-26T10:00:00.000Z",
+    "updatedAt": "2023-10-26T10:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "title": "Another Exciting Post",
+    "content": "<p>Here's some more interesting content for my readers. Stay tuned for more!</p>",
+    "seo": {
+      "title": "Another Exciting Post",
+      "description": "Updates and thoughts"
+    },
+    "image": "https://picsum.photos/id/1025/1000/600",
+    "published": true,
+    "createdAt": "2023-10-27T11:30:00.000Z",
+    "updatedAt": "2023-10-27T11:30:00.000Z"
+  },
+  {
+    "id": "3",
+    "title": "A Day in the Life of a Coder",
+    "content": "<p>Coding is fun, challenging, and rewarding. Let me tell you all about it.</p>",
+    "seo": {
+      "title": "A Day in the Life of a Coder",
+      "description": "Personal notes and workflow"
+    },
+    "image": "https://picsum.photos/id/1005/1000/600",
+    "published": true,
+    "createdAt": "2023-10-28T09:15:00.000Z",
+    "updatedAt": "2025-10-03T07:43:46.885Z"
+  },
+  {
+    "id": "4",
+    "title": "The Future of AI",
+    "content": "<p>Artificial intelligence is rapidly evolving. What does the future hold?</p>",
+    "seo": {
+      "title": "The Future of AI",
+      "description": "Exploring the advancements and implications of AI"
+    },
+    "image": "https://picsum.photos/id/1020/1000/600",
+    "published": true,
+    "createdAt": "2023-11-01T14:00:00.000Z",
+    "updatedAt": "2023-11-01T14:00:00.000Z"
+  },
+  {
+    "id": "5",
+    "title": "Healthy Eating Habits",
+    "content": "<p>Maintaining a balanced diet is crucial for well-being. Here are some tips.</p>",
+    "seo": {
+      "title": "Healthy Eating Habits",
+      "description": "Tips for a balanced and healthy diet"
+    },
+    "image": "https://picsum.photos/id/1084/1000/600",
+    "published": true,
+    "createdAt": "2023-11-05T08:45:00.000Z",
+    "updatedAt": "2023-11-05T08:45:00.000Z"
+  },
+  {
+    "id": "6",
+    "title": "Travel Photography Guide",
+    "content": "<p>Capture stunning travel photos with these expert techniques and gear recommendations.</p>",
+    "seo": {
+      "title": "Travel Photography Guide",
+      "description": "Mastering the art of travel photography"
+    },
+    "image": "https://picsum.photos/id/1040/1000/600",
+    "published": false,
+    "createdAt": "2023-11-10T16:20:00.000Z",
+    "updatedAt": "2023-11-10T16:20:00.000Z"
+  },
+  {
+    "id": "7",
+    "title": "Building a Minimalist Workspace",
+    "content": "<p>A clutter-free workspace boosts productivity and focus. Here's how I built mine.</p>",
+    "seo": {
+      "title": "Minimalist Workspace Setup",
+      "description": "Tips for creating a clean and productive environment"
+    },
+    "image": "https://picsum.photos/id/1011/1000/600",
+    "published": true,
+    "createdAt": "2023-11-15T09:00:00.000Z",
+    "updatedAt": "2023-11-15T09:00:00.000Z"
+  },
+  {
+    "id": "8",
+    "title": "Top 5 JavaScript Tricks",
+    "content": "<p>Level up your coding with these handy JavaScript tricks that save time.</p>",
+    "seo": {
+      "title": "Top 5 JavaScript Tricks",
+      "description": "Useful tips to improve your JS code"
+    },
+    "image": "https://picsum.photos/id/1035/1000/600",
+    "published": true,
+    "createdAt": "2023-11-20T11:15:00.000Z",
+    "updatedAt": "2023-11-20T11:15:00.000Z"
+  },
+  {
+    "id": "9",
+    "title": "Morning Routine for Developers",
+    "content": "<p>Start your day with habits that enhance focus and creativity in coding.</p>",
+    "seo": {
+      "title": "Morning Routine for Developers",
+      "description": "Daily rituals that boost productivity"
+    },
+    "image": "https://picsum.photos/id/1062/1000/600",
+    "published": true,
+    "createdAt": "2023-11-25T07:30:00.000Z",
+    "updatedAt": "2023-11-25T07:30:00.000Z"
+  },
+  {
+    "id": "10",
+    "title": "Learning React the Fun Way",
+    "content": "<p>React doesn’t have to be boring. Here’s how I made my learning journey fun.</p>",
+    "seo": {
+      "title": "Learning React the Fun Way",
+      "description": "Making frontend development enjoyable"
+    },
+    "image": "https://picsum.photos/id/1048/1000/600",
+    "published": true,
+    "createdAt": "2023-12-01T10:50:00.000Z",
+    "updatedAt": "2023-12-01T10:50:00.000Z"
+  },
+  {
+    "id": "11",
+    "title": "Why Side Projects Matter",
+    "content": "<p>Side projects help developers grow their skills and portfolios. Here’s why they matter.</p>",
+    "seo": {
+      "title": "Why Side Projects Matter",
+      "description": "The value of coding outside of work"
+    },
+    "image": "https://picsum.photos/id/109/1000/600",
+    "published": true,
+    "createdAt": "2023-12-05T12:10:00.000Z",
+    "updatedAt": "2023-12-05T12:10:00.000Z"
+  },
+  {
+    "id": "12",
+    "title": "Staying Motivated as a Developer",
+    "content": "<p>Burnout is real. Here are strategies to stay motivated and keep learning.</p>",
+    "seo": {
+      "title": "Staying Motivated as a Developer",
+      "description": "Practical ways to avoid burnout"
+    },
+    "image": "https://picsum.photos/id/110/1000/600",
+    "published": true,
+    "createdAt": "2023-12-10T14:40:00.000Z",
+    "updatedAt": "2023-12-10T14:40:00.000Z"
+  }
+]
